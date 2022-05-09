@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Luisuv
-- 👀 I’m interested in learn new ways to innovate in the world of tech
-- 🌱 I’m currently learning Javascript, Python, CSS3 and how to be a better developer
-- 💞️ I’m looking to collaborate on front-end, because i'm new in this world of development, but I'm open to learn about AI and software development
-- 📫 How to reach me? easy, you can write me to my mail: lmigueluv@gmail.com or text me on discord: Luisuv
+- 👋 Hi, I’m @Luisuv (Luis Miguel Uribe)
+- 👀 I’m interested to craft amazing webs and apps, and make solutions in Frontend development
+- 🌱 I’m currently improving my skills in Javascript and Reactjs, Python and SASS.
+- 💞️ I'm a Frontend developer with passion about create, accessibility and testing software and with love for developing websites and web applications.                         Passionate about React.js and UI/UX design 
+- 📫 How to reach me? easy, you can write me to my mail: lmigueluv@gmail.com or text me on discord: Luisuv or go to my LinkedIn: www.linkedin.com/in/Luis-Miguel-Uribe
+
 
 <!---
 Luisuv/Luisuv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
